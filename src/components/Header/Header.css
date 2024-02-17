@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: black;
+    opacity: 0.8;
+    padding: 30px;
+    height: 5vh;
+}
+
+input {
+    padding: 17.5px;
+    border: 1px solid yellow;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 30%;
+    border: 1px solid black;
+    cursor: pointer;
+    border: 1px solid yellow;
+}
+
+img {
+    width: 30px;
+}
