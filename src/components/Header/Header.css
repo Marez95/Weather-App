@@ -17,10 +17,16 @@ input {
 
 button {
     padding: 10px;
+    padding-bottom: 40px;
     border-radius: 30%;
     border: 1px solid black;
     cursor: pointer;
     border: 1px solid yellow;
+    opacity: 0.65;
+}
+
+button:hover {
+    background-color: #2980b9;
 }
 
 img {
